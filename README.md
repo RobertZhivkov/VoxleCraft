@@ -3,9 +3,9 @@ VoxleCraft е игра подобна на Minecraft в която се стро
 
 Платформи:
   -Windows 8.1
-  -windows 10
-  -Windows 11
-  -Linux (Всякакви)
+  ,windows 10
+  ,Windows 11
+  ,Linux (Всякакви)
 
 Задължитолно истегляне:
   - Python (3.12+): https://www.python.org/
