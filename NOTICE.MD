@@ -1,0 +1,3 @@
+I'm  quitting development on VlEC because it feels like a chore to update it and I am dry on ideas. 
+Aslo I cant get any .exe/.x86_64 files to work so you dont have to use python
+I will probably revisit the game once I actually know what I'm doing, but for now development will cease util further notice... 
